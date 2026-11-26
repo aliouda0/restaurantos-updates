@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "product": "RestaurantOS",
+  "channel": "stable",
+  "version": "1.0.0",
+  "minimumVersion": "0.0.0",
+  "rolloutPercentage": 100,
+  "releasedAt": "2026-11-26T13:14:52.360Z",
+  "notes": "RestaurantOS Client 1.0.0 for clean installation.",
+  "installer": {
+    "url": "https://github.com/aliouda0/restaurantos-updates/releases/download/client-v1.0.0/RestaurantOS_Client_Setup.exe",
+    "sha256": "9c360149211e71b161530c69cf684d22d5791d42d53594e4d9b7db856b132f4f"
+  },
+  "signature": {
+    "algorithm": "RSA-SHA256",
+    "keyId": "cd634156c56d963d",
+    "value": "icCnvCv28yXdmFQxBovcWvvARBeWt79hSfgs31RhYjpYNLPeAoXwkeLUyH-Z3iA9TwT3veljWuNtQhwDGhCD2a0Y6g2d9jWyqnpq-kGUC-kQ5FM8lC3tQIZofMkQrjXpOIjM8wSRzDbdFoYaQh3DThDN_YR3bKUlVUjK6fV7Ci0dZWWnPKFXBoYjT1bzaMtNRvTXvITans3oqxsBKWUZm_-OQyluwahRN4ID27niZHZFJdHpw0_EAx9zbwfnRqS2mQbDUaKDBfxSKXntMDPG9EyUn6k7znDwk55XUi-WxVyhoVku2OkLlHcd5VeUsNRi-0mz0BrxIRCz7GXx2dVLi3-WQyzVmWXtORCMKMTM9UHxR0fD7netHueOwq16QYV9mDawcXxge1J4GKLX0P9gPKEpIsmHs4L4YfldCiQOPEPMQBM3nBuQiCFB1q7r8aFmeZYpz4sm21ezHzHupXrEDCaUeZ84jxdgYtuhAoNV_NsohqxQazHXqHqT_M0Yy4Fp",
+    "signedAt": "2026-11-26T13:14:52.360Z"
+  }
+}
